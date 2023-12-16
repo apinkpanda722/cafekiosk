@@ -1,0 +1,20 @@
+[[product-create]]
+=== 신규 상품 등록
+
+==== HTTP Request
+include::{snippets}/product-create/http-request.adoc[]
+include::{snippets}/product-create/request-fields.adoc[]
+
+==== HTTP Response
+include::{snippets}/product-create/http-response.adoc[]
+include::{snippets}/product-create/response-fields.adoc[]
+
+[[product-getSellingProducts]]
+=== 판매 상품 조회
+
+==== HTTP Request
+include::{snippets}/product-getSellingProducts/http-request.adoc[]
+
+==== HTTP Response
+include::{snippets}/product-getSellingProducts/http-response.adoc[]
+include::{snippets}/product-getSellingProducts/response-fields.adoc[]
